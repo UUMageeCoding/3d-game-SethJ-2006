@@ -76144,7 +76144,7 @@ GameObject:
   - component: {fileID: 2011850776}
   - component: {fileID: 2011850775}
   m_Layer: 0
-  m_Name: Torus
+  m_Name: Barrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
