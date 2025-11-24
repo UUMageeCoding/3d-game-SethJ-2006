@@ -213942,15 +213942,15 @@ PrefabInstance:
       objectReference: {fileID: 930318984}
     - target: {fileID: 5662966582510806401, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_SelectedEdges.Array.size
-      value: 4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5662966582510806401, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_SelectedFaces.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5662966582510806401, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_SelectedVertices.Array.size
-      value: 4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5682777615129627472, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -217034,11 +217034,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8410905828522820589, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_SelectedEdges.Array.size
-      value: 4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8410905828522820589, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_SelectedFaces.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8410905828522820589, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_Positions.Array.data[0].x
@@ -221122,7 +221122,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8410905828522820589, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_SelectedVertices.Array.size
-      value: 4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8410905828522820589, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_Textures0.Array.data[100].x
@@ -225726,6 +225726,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7130021453517405882, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2000449650}
+    - targetCorrespondingSourceObject: {fileID: 7130021453517405882, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2106522644}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
 --- !u!1001 &1579758726
@@ -239239,16 +239242,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2106522641}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.2}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1.4755601}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 56465402}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 17.72, y: 1.98}
+  m_AnchoredPosition: {x: 13.38702, y: 1.98}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &2114238038
@@ -240261,4 +240264,3 @@ SceneRoots:
   - {fileID: 1587552126}
   - {fileID: 1970783133}
   - {fileID: 1412454486}
-  - {fileID: 2106522644}
