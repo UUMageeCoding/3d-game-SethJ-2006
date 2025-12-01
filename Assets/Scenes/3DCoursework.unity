@@ -205137,6 +205137,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -2.92
       objectReference: {fileID: 0}
+    - target: {fileID: 2652507850157015718, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: aaf7aa61a2604e0428b66a19f2c23901, type: 2}
     - target: {fileID: 2721349189899380977, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -228077,6 +228081,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 2e2f8ac2d57e5344197f19949b3bc72b, type: 2}
+    - target: {fileID: 8997969609366515529, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: aaf7aa61a2604e0428b66a19f2c23901, type: 2}
     - target: {fileID: 9087951169315088579, guid: aa8ff828b1e99da45b344ac92229d9a3, type: 3}
       propertyPath: m_Mesh
       value: 
