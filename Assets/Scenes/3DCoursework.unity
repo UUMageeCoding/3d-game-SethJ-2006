@@ -496,6 +496,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 47d54366ab5555e478b9c1067db6d1ef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 979aef027a1c86c42a15ce35fce366fa, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 47d54366ab5555e478b9c1067db6d1ef, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5f7e395e01b3c014199f8284b3c6f369, type: 2}
     - target: {fileID: 919132149155446097, guid: 47d54366ab5555e478b9c1067db6d1ef, type: 3}
       propertyPath: m_Name
       value: ShaggyInkCapDMeltingVariantB
@@ -62371,6 +62379,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ffa390ec0b7403b468412f4f037acb0e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 979aef027a1c86c42a15ce35fce366fa, type: 2}
     - target: {fileID: 919132149155446097, guid: ffa390ec0b7403b468412f4f037acb0e, type: 3}
       propertyPath: m_Name
       value: ShaggyInkCapCMatureVariantB (1)
@@ -106874,6 +106886,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ffa390ec0b7403b468412f4f037acb0e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 979aef027a1c86c42a15ce35fce366fa, type: 2}
     - target: {fileID: 919132149155446097, guid: ffa390ec0b7403b468412f4f037acb0e, type: 3}
       propertyPath: m_Name
       value: ShaggyInkCapCMatureVariantB (2)
@@ -116113,6 +116129,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 47d54366ab5555e478b9c1067db6d1ef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 979aef027a1c86c42a15ce35fce366fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 47d54366ab5555e478b9c1067db6d1ef, type: 3}
       propertyPath: m_Name
       value: ShaggyInkCapDMeltingVariantB (1)
@@ -117363,6 +117383,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: c567b56ad0e41fc45a1ffbb643eb7302, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5f7e395e01b3c014199f8284b3c6f369, type: 2}
     - target: {fileID: 919132149155446097, guid: c567b56ad0e41fc45a1ffbb643eb7302, type: 3}
       propertyPath: m_Name
       value: DandelionsClusterB (1)
@@ -262182,6 +262206,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ffa390ec0b7403b468412f4f037acb0e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 979aef027a1c86c42a15ce35fce366fa, type: 2}
     - target: {fileID: 919132149155446097, guid: ffa390ec0b7403b468412f4f037acb0e, type: 3}
       propertyPath: m_Name
       value: ShaggyInkCapCMatureVariantB
@@ -296237,6 +296265,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 47d54366ab5555e478b9c1067db6d1ef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 979aef027a1c86c42a15ce35fce366fa, type: 2}
     - target: {fileID: 919132149155446097, guid: 47d54366ab5555e478b9c1067db6d1ef, type: 3}
       propertyPath: m_Name
       value: ShaggyInkCapDMeltingVariantB (2)
